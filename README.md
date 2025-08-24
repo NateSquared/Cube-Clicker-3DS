@@ -1,7 +1,10 @@
 # Cube-Clicker-3DS
-Port of a [Scratch game](https://scratch.mit.edu/projects/251999490) I made when I was 14
+
+Clicker game where you click a cube for the Nintendo 3DS
 
 ![Icon](iconx4.png)
+
+Port of a [Scratch game](https://scratch.mit.edu/projects/251999490) I made when I was 14
 
 I made this game to learn the LÖVE2D and LÖVEPotion frameworks, along with how to use GitHub.
 
