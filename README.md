@@ -3,7 +3,7 @@ Port of a [Scratch game](https://scratch.mit.edu/projects/251999490) I made when
 
 ![Icon](iconx4.png)
 
-I made this game to learn the LÖVEPotion framework.
+I made this game to learn the LÖVE2D and LÖVEPotion frameworks, along with how to use GitHub.
 
 ## Controls
 
