@@ -1,7 +1,9 @@
 # Cube-Clicker-3DS
-Port of a Scratch game I made when I was 14 to learn the LÖVEPotion framework
+Port of a [Scratch game](https://scratch.mit.edu/projects/251999490) I made when I was 14
 
 ![Icon](iconx4.png)
+
+I made this game to learn the LÖVEPotion framework.
 
 ## Controls
 
@@ -19,7 +21,7 @@ Due to how LÖVEPotion works, you need to run the game on a modded Nintendo 3DS 
 
 [LÖVE2D](https://love2d.org) - The original engine
 
-[LÖVEPotion](https://lovebrew.org) - The fork of LÖVE2D that allows games to run on the Switch, WiiU, and 3DS
+[LÖVEPotion](https://lovebrew.org) - A fork of LÖVE2D that allows games to run on the 3DS
 
 [nëst](https://github.com/lovebrew/nest) - Compatibility Layer for LÖVEPotion
 
