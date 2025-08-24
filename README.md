@@ -1,7 +1,7 @@
 # Cube-Clicker-3DS
 Port of a Scratch game I made when I was 14 to learn the LÖVEPotion framework
 
-Due to how LÖVEPotion works, you need to run the game on a modded Nintendo 3DS in the Homebrew Menu. Although if you were to download the source files and run them in LÖVE2D 11.5 or later, you effectively have a PC version, although it only works with a controller.
+![Icon](iconx4.png)
 
 ## Controls
 
@@ -10,3 +10,17 @@ Cube Click - A, B, X, Y, the DPAD, and the Shoulder Buttons (NOT THE TRIGGERS)
 Menu Swap - Select
 
 Save & Exit - Start
+
+## Running
+
+Due to how LÖVEPotion works, you need to run the game on a modded Nintendo 3DS in the Homebrew Menu. Although if you were to download the source files and run them in LÖVE2D 11.5 or later, you effectively have a PC version, although it only works with a controller.
+
+## Acknowledgements
+
+[LÖVE2D](https://love2d.org) - The original engine
+
+[LÖVEPotion](https://lovebrew.org) - The fork of LÖVE2D that allows games to run on the Switch, WiiU, and 3DS
+
+[nëst](https://github.com/lovebrew/nest) - Compatibility Layer for LÖVEPotion
+
+[Lume](https://github.com/rxi/lume) - Lua functions geared towards gamedev
